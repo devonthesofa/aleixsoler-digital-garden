@@ -1,15 +1,15 @@
 {
-  "name": "@jackyzha0/quartz",
-  "description": "🌱 publish your digital garden and notes as a website",
+  "name": "devonthesofa/aleixsoler-digital-garden",
+  "description": "🌱 Aleix Soler digital garden",
   "private": true,
   "version": "4.5.2",
   "type": "module",
-  "author": "jackyzha0 <j.zhao2k19@gmail.com>",
+  "author": "aleix soler <contact@aleixsoler.com>",
   "license": "MIT",
-  "homepage": "https://quartz.jzhao.xyz",
+  "homepage": "https://www.aleixsoler.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jackyzha0/quartz.git"
+    "url": "https://github.com/devonthesofa/aleixsoler-digital-garden"
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
@@ -24,12 +24,11 @@
     "node": ">=22"
   },
   "keywords": [
-    "site generator",
-    "ssg",
+    "aleix",
     "digital-garden",
     "markdown",
     "blog",
-    "quartz"
+    "aleixsoler"
   ],
   "bin": {
     "quartz": "./quartz/bootstrap-cli.mjs"
